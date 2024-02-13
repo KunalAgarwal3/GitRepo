@@ -1,8 +1,8 @@
 
 public class TestClass {
-public static void main(String[] args) {
-	System.out.println("Hello GitRepo");
+	public static void main(String[] args) {
+		System.out.println("Hello GitRepo");
+		System.out.println("adding Repo");
 
-	
-}
+	}
 }
